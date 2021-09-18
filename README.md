@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhayatunnabi&label=Profile%20views&color=0e75b6&style=flat" alt="imhayatunnabi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imhayatunnabi" alt="imhayatunnabi" /></a> </p>
-
 - 🔭 I’m currently working on [Conversion of PSD/XD to HTML CSS & Javascript](https://github.com/iamhayatunnabi/psd-to-html-activebox)
 
 - 🌱 I’m currently learning **React MongoDB**
