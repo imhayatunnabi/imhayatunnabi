@@ -36,6 +36,4 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/imhayatunnabi)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imhayatunnabi)  
-
-![Profile views](https://gpvc.arturio.dev/imhayatunnabi)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=imhayatunnabi) 
