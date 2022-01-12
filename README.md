@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PSD to HTML**
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **Frontend Developing with REACT**
 
 - 👯 I’m looking to collaborate on **PSD to HTML CSS JS**
 
