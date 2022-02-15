@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/imhayatunnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imhayatunnabi" height="30" width="40" /></a>
 <a href="https://fb.com/imhayatunnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imhayatunnabi" height="30" width="40" /></a>
 <a href="https://instagram.com/imhayatunnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imhayatunnabi" height="30" width="40" /></a>
-  <a href="https://www.frontendmentor.io/profile/imhayatunnabi" target="blank"><img align="center" src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="imhayatunnabi" height="30" width="120" color="white" /></a>
+  <a href="https://www.frontendmentor.io/profile/imhayatunnabi" target="blank"><img align="center" src="https://www.frontendmentor.io/static/images/logo-desktop.svg" alt="imhayatunnabi" height="30" width="130" /></a>
 <a href="https://www.behance.net/imhayatunnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="imhayatunnabi" height="30" width="40" /></a>
   <a href="https://twitter.com/imhayatunnabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imhayatunnabi" height="30" width="40" /></a>
 </p>
