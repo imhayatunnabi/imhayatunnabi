@@ -1,5 +1,9 @@
 <a href="https://linkedin.com/in/imhayatunnabi" target="blank"><img align="center" src="https://github.com/imhayatunnabi/personal-website/blob/main/images/web-developer-quote.png" alt="imhayatunnabi" height="200" width="950" /></a>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Hayatunnabi Nabil</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
