@@ -36,6 +36,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhayatunnabi)
 
-![GitHub metrics](https://metrics.lecoq.io/imhayatunnabi)
+<!-- ![GitHub metrics](https://metrics.lecoq.io/imhayatunnabi) -->
 
 
