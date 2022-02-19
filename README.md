@@ -43,7 +43,7 @@
 <a href= https://github.com/?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://github.com/?tab=repositories&q=&type=&language=nextjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'> </a>
 
-- 💹 **Stats**
+<h2>Stats <img src = "https://cdn.dribbble.com/users/304485/screenshots/3301972/media/d82e503513ffaed91794ad86c01cd38d.gif" width = 32px></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhayatunnabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
