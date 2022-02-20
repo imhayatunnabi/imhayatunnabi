@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi <span> <img src="https://raw.githubusercontent.com/learnwithsumit/learnwithsumit/main/assets/hello.gif"></span> , I'm Hayatunnabi Nabil</h1>
+<h1 align="center">Hi <span> <img src="https://raw.githubusercontent.com/learnwithsumit/learnwithsumit/main/assets/hello.gif" width="25px"></span> , I'm Hayatunnabi Nabil</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhayatunnabi&label=Profile%20views&color=0e75b6&style=flat" alt="imhayatunnabi" /> </p>
