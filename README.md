@@ -48,7 +48,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhayatunnabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imhayatunnabi)](https://git.io/streak-stats)     [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=imhayatunnabi)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imhayatunnabi)]     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhayatunnabi)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhayatunnabi)
