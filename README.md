@@ -51,7 +51,7 @@
 [![GitHub Streak](https://github-readme-streak-stats-2.herokuapp.com?user=imhayatunnabi&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)     ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhayatunnabi)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhayatunnabi)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhayatunnabi) -->
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/imhayatunnabi) -->
 
