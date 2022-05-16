@@ -9,13 +9,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhayatunnabi&label=Profile%20views&color=0e75b6&style=flat" alt="imhayatunnabi" /> </p>
 
-- 🔭 I’m currently working on **PSD to HTML**
+- 🔭 I’m currently working on **Laravel x React**
 
-- 🌱 I’m currently learning **Frontend Developing with REACT**
+- 🌱 I’m currently learning and working **Frontend Development with REACT,Backend Development with PHP(Laravel)**
 
-- 👯 I’m looking to collaborate on **PSD to HTML CSS JS**
+- 👯 I’m looking to collaborate on **Backend Development with Laravel**
 
-- 💬 Ask me about **HTML CSS BOOTSRAP TAILWIND JS REACT**
+- 💬 Ask me about **HTML CSS BOOTSRAP TAILWIND JS REACT LARAVEL**
 
 - 📫 How to reach me **18103025hayatunnabinabil@gmail.com**
 
