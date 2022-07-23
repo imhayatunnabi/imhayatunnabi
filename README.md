@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhayatunnabi&label=Profile%20views&color=0e75b6&style=flat" alt="imhayatunnabi" /> </p>
 
-- 🔭 I’m currently working on **Laravel x React**
+- 🔭 I’m currently working on **Laravel x Vue**
 
 - 🌱 I’m currently learning and working **Frontend Development with REACT,Backend Development with PHP(Laravel)**
 
