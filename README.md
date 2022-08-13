@@ -49,6 +49,7 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imhayatunnabi)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhayatunnabi)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhayatunnabi) -->
 
