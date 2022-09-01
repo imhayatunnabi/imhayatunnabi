@@ -7,7 +7,7 @@
 <h1 align="center">Hi <span> <img src="https://raw.githubusercontent.com/learnwithsumit/learnwithsumit/main/assets/hello.gif" width="25px"></span> , I'm Hayatunnabi Nabil</h1>
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imhayatunnabi&label=Profile%20views&color=0e75b6&style=flat" alt="imhayatunnabi" /> <span><a href=""><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="imhayatunnabi" /></a></span> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imhayatunnabi&label=Profile%20views&color=0e75b6&style=flat" alt="imhayatunnabi" /> <span><a href="https://www.hackerrank.com/imhayatunnabi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="imhayatunnabi" /></a></span> </p>
 
 - 🔭 I’m currently working on **Laravel x Vue**
 
