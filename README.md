@@ -8,6 +8,7 @@
 <h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imhayatunnabi&label=Profile%20views&color=0e75b6&style=flat" alt="imhayatunnabi" /> </p>
+<p align="right"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="imhayatunnabi" /> </p>
 
 - 🔭 I’m currently working on **Laravel x Vue**
 
