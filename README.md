@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Laravel x Vue**
 
-- 🌱 I’m currently learning and working **Frontend Development with REACT,Backend Development with PHP(Laravel)**
+- 🌱 I’m currently learning and working **Frontend Development with Vue,Backend Development with PHP(Laravel)**
 
 - 👯 I’m looking to collaborate on **Backend Development with Laravel**
 
-- 💬 Ask me about **HTML CSS BOOTSRAP TAILWIND JS REACT LARAVEL**
+- 💬 Ask me about **HTML CSS BOOTSRAP TAILWIND JavaSript Vue LARAVEL**
 
 - 📫 How to reach me **18103025hayatunnabinabil@gmail.com**
 
