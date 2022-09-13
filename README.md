@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Laravel x Vue**
 
-- 🌱 I’m currently learning and working **Frontend Development with Vue,Backend Development with PHP(Laravel)**
+- 🌱 I’m currently learning and working **Frontend Development with Vue,Backend Development with** ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 👯 I’m looking to collaborate on **Backend Development with Laravel**
+- 👯 I’m looking to collaborate on **Backend Development with** ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-- 💬 Ask me about **HTML CSS BOOTSRAP TAILWIND JavaSript Vue Laravel**
+- 💬 Ask me about **HTML CSS BOOTSRAP TAILWIND JavaSript** ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 - 📫 How to reach me **18103025hayatunnabinabil@gmail.com**
 
