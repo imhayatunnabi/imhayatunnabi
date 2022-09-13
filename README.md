@@ -13,9 +13,9 @@
 
 - 🌱 I’m currently learning and working **Frontend Development with Vue,Backend Development with PHP(Laravel)**
 
-- 👯 I’m looking to collaborate on **Backend Development with <span style="color:#e63946">Laravel</span>**
+- 👯 I’m looking to collaborate on **Backend Development with** <span style="color:#e63946;">Laravel</span>
 
-- 💬 Ask me about **HTML CSS BOOTSRAP TAILWIND JavaSript <span style="color:#57cc99">Vue</span> <span style="color:#e63946">Laravel</span>**
+- 💬 Ask me about **HTML CSS BOOTSRAP TAILWIND JavaSript** <span style="color:#57cc99;">Vue</span> <span style="color:#e63946;">Laravel</span>
 
 - 📫 How to reach me **18103025hayatunnabinabil@gmail.com**
 
