@@ -42,7 +42,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhayatunnabi)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=imhayatunnabi&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imhayatunnabi&border_radius=6)](https://git.io/streak-stats)
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=imhayatunnabi) -->
 
