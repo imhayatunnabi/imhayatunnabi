@@ -39,7 +39,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhayatunnabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imhayatunnabi)](https://git.io/streak-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhayatunnabi)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imhayatunnabi&theme=tokyonight&border_radius=6)](https://git.io/streak-stats)
