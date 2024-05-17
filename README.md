@@ -42,7 +42,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhayatunnabi)
 
-<a href="https://app.daily.dev/imhayatunnabi"><img src="https://api.daily.dev/devcards/v2/5whPXJu4QwIc5KIoTYkRJ.png?type=wide&r=yfy" width="652" alt="Hayatunnabi Nabil's Dev Card"/></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=imhayatunnabi&border_radius=6)](https://git.io/streak-stats)
 
