@@ -37,7 +37,8 @@
 <h2>Stats <img src = "https://cdn.dribbble.com/users/304485/screenshots/3301972/media/d82e503513ffaed91794ad86c01cd38d.gif" width = 32px></h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imhayatunnabi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://app.daily.dev/imhayatunnabi"><img src="https://api.daily.dev/devcards/v2/5whPXJu4QwIc5KIoTYkRJ.png?type=wide&r=mr5" width="652" alt="Hayatunnabi Nabil's Dev Card"/></a>
+<a href="https://app.daily.dev/imhayatunnabi"><img src="https://api.daily.dev/devcards/v2/5whPXJu4QwIc5KIoTYkRJ.png?type=wide&r=mr5" height="195" alt="Hayatunnabi Nabil's Dev Card"/></a>
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imhayatunnabi)
