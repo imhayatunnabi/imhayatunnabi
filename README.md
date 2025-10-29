@@ -50,4 +50,27 @@
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/imhayatunnabi) -->
 
+# Open Source Contributions
 
+### [Laravel Backup](https://github.com/spatie/laravel-backup) - [PR #1921](https://github.com/spatie/laravel-backup/pull/1921)
+[**Release: 9.3.5**](https://github.com/spatie/laravel-backup/releases/tag/9.3.5)
+
+Enhanced backup reliability and platform compatibility through multiple critical fixes:
+- Implemented proper return value checks for `ZipArchive::open()` to prevent silent backup failures
+- Resolved file handle resource leaks in `BackupDestination::write()` to ensure stable operation during exceptions
+- Fixed `glob()` false return handling and `GLOB_BRACE` incompatibility issues on Alpine Linux
+- Removed undocumented legacy `gzip_database_dump` configuration for cleaner codebase consistency
+
+### [Laravel Filament](https://github.com/filamentphp/filament) - [PR #18255](https://github.com/filamentphp/filament/pull/18255)
+[**Release: 4.1.10**](https://github.com/filamentphp/filament/releases/tag/v4.1.10)
+
+Improved accessibility for Bengali-speaking developers:
+- Implemented comprehensive Bangla (Bengali) language localization
+- Enhanced internationalization support for the admin panel framework
+
+### [Laravel Permission](https://github.com/spatie/laravel-permission) - [PR #2883](https://github.com/spatie/laravel-permission/pull/2883)
+[**Release: 6.22.0**](https://github.com/spatie/laravel-permission/releases/tag/6.22.0)
+
+Strengthened security for high-performance environments:
+- Fixed TOCTOU (Time-of-check to Time-of-use) race condition in permission loading
+- Ensured thread-safe operation for concurrent environments (Octane, Swoole, RoadRunner)
