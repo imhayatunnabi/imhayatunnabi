@@ -107,36 +107,36 @@ Full-stack Software Engineer with **4+ years** of professional experience buildi
 **Release: [9.3.5](https://github.com/spatie/laravel-backup/releases/tag/9.3.5)**
 
 Enhanced backup reliability and platform compatibility:
-- ✅ Implemented proper return value checks for `ZipArchive::open()` to prevent silent failures
-- ✅ Resolved file handle resource leaks in `BackupDestination::write()`
-- ✅ Fixed `glob()` false return handling and `GLOB_BRACE` incompatibility on Alpine Linux
-- ✅ Removed undocumented legacy `gzip_database_dump` configuration
+- Implemented proper return value checks for `ZipArchive::open()` to prevent silent failures
+- Resolved file handle resource leaks in `BackupDestination::write()`
+- Fixed `glob()` false return handling and `GLOB_BRACE` incompatibility on Alpine Linux
+- Removed undocumented legacy `gzip_database_dump` configuration
 
 ### [Laravel Filament](https://github.com/filamentphp/filament) - [PR #18255](https://github.com/filamentphp/filament/pull/18255)
 **Release: [4.1.10](https://github.com/filamentphp/filament/releases/tag/v4.1.10)**
 
 Enhanced internationalization support:
-- ✅ Implemented comprehensive Bangla (Bengali) language localization
-- ✅ Improved accessibility for Bengali-speaking developers worldwide
+- Implemented comprehensive Bangla (Bengali) language localization
+- Improved accessibility for Bengali-speaking developers worldwide
 
 ### [Laravel Permission](https://github.com/spatie/laravel-permission) - [PR #2883](https://github.com/spatie/laravel-permission/pull/2883)
 **Release: [6.22.0](https://github.com/spatie/laravel-permission/releases/tag/6.22.0)**
 
 Strengthened security for high-performance environments:
-- ✅ Fixed TOCTOU race condition in permission loading
-- ✅ Ensured thread-safe operation for Octane, Swoole, and RoadRunner
+- Fixed TOCTOU race condition in permission loading
+- Ensured thread-safe operation for Octane, Swoole, and RoadRunner
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imhayatunnabi&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhayatunnabi&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 <p align="center">
   <a href="https://app.daily.dev/imhayatunnabi"><img src="https://api.daily.dev/devcards/v2/5whPXJu4QwIc5KIoTYkRJ.png?type=wide&r=mr5" width="652" alt="Hayatunnabi Nabil's Dev Card"/></a>
-</p>
+</p> -->
 
 ---
 
