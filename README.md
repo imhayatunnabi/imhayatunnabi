@@ -135,9 +135,7 @@ Strengthened security for high-performance environments:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imhayatunnabi&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=imhayatunnabi&theme=dark" alt="GitHub Streak" height="165">
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=imhayatunnabi)](https://git.io/streak-stats)
 
 <p align="center">
   <a href="https://app.daily.dev/imhayatunnabi"><img src="https://api.daily.dev/devcards/v2/5whPXJu4QwIc5KIoTYkRJ.png?type=wide&r=mr5" width="652" alt="Hayatunnabi Nabil's Dev Card"/></a>
