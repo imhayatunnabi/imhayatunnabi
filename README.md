@@ -125,7 +125,13 @@ Enhanced internationalization support:
 Strengthened security for high-performance environments:
 - Fixed TOCTOU race condition in permission loading
 - Ensured thread-safe operation for Octane, Swoole, and RoadRunner
+- #### [Original PR #2883](https://github.com/spatie/laravel-permission/pull/2883)
 
+**Release: [6.23.0](https://github.com/spatie/laravel-permission/releases/tag/6.23.0)**
+
+Performance enhancement: Reduce unnecessary container resolution calls
+- #### [Original PR #2884](https://github.com/spatie/laravel-permission/pull/2884)
+- #### [Resolution PR Merge #2889](https://github.com/spatie/laravel-permission/pull/2889)
 ---
 
 ## 📊 GitHub Statistics
